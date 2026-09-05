@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="260" viewBox="0 0 360 260" role="img" aria-labelledby="title desc">
+<title id="title">Most Used Languages</title>
+<desc id="desc">TypeScript: 64.9%; JavaScript: 24.0%; Shell: 6.9%; Lua: 4.2%; Ruby: 0.0%</desc>
+<style>
+svg { --bg: #ffffff; --text: #24292f; --muted: #57606a; --border: #d0d7de; --accent: #2563eb; --track: #eaeef2; }
+@media (prefers-color-scheme: dark) { svg { --bg: #0d1117; --text: #e6edf3; --muted: #9da7b3; --border: #30363d; --accent: #79a8ff; --track: #21262d; } }
+text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+</style>
+<rect x="0.5" y="0.5" width="359" height="259" rx="10" fill="var(--bg)" stroke="var(--border)"/>
+<text x="24" y="38" font-size="20" fill="var(--accent)" font-weight="600">Most Used Languages</text>
+<text x="24" y="72" font-size="12" fill="var(--text)" font-weight="400">TypeScript</text>
+<text x="278" y="72" font-size="12" fill="var(--muted)" font-weight="400">64.9%</text>
+<rect x="24" y="79" width="308" height="5" rx="2.5" fill="var(--track)"/>
+<rect x="24" y="79" width="199.82" height="5" rx="2.5" fill="#3178c6"/>
+<text x="24" y="104" font-size="12" fill="var(--text)" font-weight="400">JavaScript</text>
+<text x="278" y="104" font-size="12" fill="var(--muted)" font-weight="400">24.0%</text>
+<rect x="24" y="111" width="308" height="5" rx="2.5" fill="var(--track)"/>
+<rect x="24" y="111" width="73.86" height="5" rx="2.5" fill="#c7aa19"/>
+<text x="24" y="136" font-size="12" fill="var(--text)" font-weight="400">Shell</text>
+<text x="278" y="136" font-size="12" fill="var(--muted)" font-weight="400">6.9%</text>
+<rect x="24" y="143" width="308" height="5" rx="2.5" fill="var(--track)"/>
+<rect x="24" y="143" width="21.35" height="5" rx="2.5" fill="#57913b"/>
+<text x="24" y="168" font-size="12" fill="var(--text)" font-weight="400">Lua</text>
+<text x="278" y="168" font-size="12" fill="var(--muted)" font-weight="400">4.2%</text>
+<rect x="24" y="175" width="308" height="5" rx="2.5" fill="var(--track)"/>
+<rect x="24" y="175" width="12.87" height="5" rx="2.5" fill="#6464c8"/>
+<text x="24" y="200" font-size="12" fill="var(--text)" font-weight="400">Ruby</text>
+<text x="278" y="200" font-size="12" fill="var(--muted)" font-weight="400">0.0%</text>
+<rect x="24" y="207" width="308" height="5" rx="2.5" fill="var(--track)"/>
+<rect x="24" y="207" width="0.10" height="5" rx="2.5" fill="#7886a0"/>
+<text x="24" y="244" font-size="10" fill="var(--muted)" font-weight="400">By bytes · public originals · excludes this profile</text>
+</svg>
