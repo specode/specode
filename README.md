@@ -8,14 +8,14 @@ Building tools for AI-assisted development — with a focus on **Pi extensions**
 - **Agent workflows** — shared rules and harness-specific configuration
 - **Developer setup** — dotfiles and Neovim configuration
 
-### GitHub at a glance
+## GitHub at a glance
 
 <a href="https://github.com/specode?tab=repositories"><img src="./assets/languages.svg" alt="Most used languages by bytes in public non-fork repositories, excluding this profile" width="42%" /></a>
 <a href="https://github.com/specode?tab=repositories"><img src="./assets/stats.svg" alt="Specode's public GitHub statistics: stars, original repositories, followers and forks" width="55%" /></a>
 
 <sub>Updated daily from public GitHub data. Language usage measures code bytes, not proficiency.</sub>
 
-### Selected projects
+## Selected projects
 
 | Project | What it does |
 | :--- | :--- |
@@ -25,6 +25,6 @@ Building tools for AI-assisted development — with a focus on **Pi extensions**
 | [**pi-kimi-cu**](https://github.com/specode/pi-kimi-cu) | Set up Kimi Computer Use and MCP for Pi. |
 | [**agent-config**](https://github.com/specode/agent-config) | Shared agent rules and harness-specific user configuration. |
 
-### My setup
+## My setup
 
 [Neovim config](https://github.com/specode/nvim-config) · [Dotfiles](https://github.com/specode/dotfiles) · [More repositories →](https://github.com/specode?tab=repositories)
