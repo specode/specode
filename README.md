@@ -2,8 +2,9 @@
 
 [![Follow Specode](https://img.shields.io/github/followers/specode?label=Follow&style=social)](https://github.com/specode?tab=followers)
 
-Building tools for AI-assisted development — with a focus on **Pi extensions**, **agent workflows**, and **developer experience**.
+Building Apple apps and tools for AI-assisted development — with a focus on **Pi extensions**, **agent workflows**, and **developer experience**.
 
+- **Apple apps** — [Lumea](https://getlumea.app) for focus, [AnyPane](https://anypane.app) for remote SSH/VNC workspaces
 - **AI tooling** — subscription usage, image generation, and browser integration
 - **Agent workflows** — shared rules and harness-specific configuration
 - **Developer setup** — dotfiles and Neovim configuration
@@ -19,6 +20,8 @@ Building tools for AI-assisted development — with a focus on **Pi extensions**
 
 | Project | What it does |
 | :--- | :--- |
+| [**Lumea**](https://getlumea.app) | iPhone focus timer. While you focus, a companion adventures through a watercolor world. |
+| [**AnyPane**](https://anypane.app) | SSH and VNC workspaces for iPhone, iPad, and Mac, with up to four panes per task. Coming soon. |
 | [**pi-subscription-image**](https://github.com/specode/pi-subscription-image) | Generate and edit images in Pi using existing Codex and Grok subscriptions. |
 | [**pi-subscription-usage**](https://github.com/specode/pi-subscription-usage) | Check subscription quota for Codex, OpenCode Go, Grok, and Kimi. |
 | [**pi-kimi-webbridge-bootstrap**](https://github.com/specode/pi-kimi-webbridge-bootstrap) | Install and update the official Kimi WebBridge runtime and skill for Pi. |
