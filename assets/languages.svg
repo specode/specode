@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="260" viewBox="0 0 360 260" role="img" aria-labelledby="title desc">
 <title id="title">Most Used Languages</title>
-<desc id="desc">TypeScript: 63.6%; JavaScript: 25.4%; Shell: 7.1%; Lua: 3.9%; Ruby: 0.0%</desc>
+<desc id="desc">TypeScript: 63.6%; JavaScript: 25.3%; Shell: 7.1%; Lua: 3.9%; Ruby: 0.0%</desc>
 <style>
 svg { --bg: #ffffff; --text: #24292f; --muted: #57606a; --border: #d0d7de; --accent: #2563eb; --track: #eaeef2; }
 @media (prefers-color-scheme: dark) { svg { --bg: #0d1117; --text: #e6edf3; --muted: #9da7b3; --border: #30363d; --accent: #79a8ff; --track: #21262d; } }
@@ -11,19 +11,19 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 <text x="24" y="72" font-size="12" fill="var(--text)" font-weight="400">TypeScript</text>
 <text x="278" y="72" font-size="12" fill="var(--muted)" font-weight="400">63.6%</text>
 <rect x="24" y="79" width="308" height="5" rx="2.5" fill="var(--track)"/>
-<rect x="24" y="79" width="195.75" height="5" rx="2.5" fill="#3178c6"/>
+<rect x="24" y="79" width="196.03" height="5" rx="2.5" fill="#3178c6"/>
 <text x="24" y="104" font-size="12" fill="var(--text)" font-weight="400">JavaScript</text>
-<text x="278" y="104" font-size="12" fill="var(--muted)" font-weight="400">25.4%</text>
+<text x="278" y="104" font-size="12" fill="var(--muted)" font-weight="400">25.3%</text>
 <rect x="24" y="111" width="308" height="5" rx="2.5" fill="var(--track)"/>
-<rect x="24" y="111" width="78.36" height="5" rx="2.5" fill="#c7aa19"/>
+<rect x="24" y="111" width="77.97" height="5" rx="2.5" fill="#c7aa19"/>
 <text x="24" y="136" font-size="12" fill="var(--text)" font-weight="400">Shell</text>
 <text x="278" y="136" font-size="12" fill="var(--muted)" font-weight="400">7.1%</text>
 <rect x="24" y="143" width="308" height="5" rx="2.5" fill="var(--track)"/>
-<rect x="24" y="143" width="21.80" height="5" rx="2.5" fill="#57913b"/>
+<rect x="24" y="143" width="21.89" height="5" rx="2.5" fill="#57913b"/>
 <text x="24" y="168" font-size="12" fill="var(--text)" font-weight="400">Lua</text>
 <text x="278" y="168" font-size="12" fill="var(--muted)" font-weight="400">3.9%</text>
 <rect x="24" y="175" width="308" height="5" rx="2.5" fill="var(--track)"/>
-<rect x="24" y="175" width="11.99" height="5" rx="2.5" fill="#6464c8"/>
+<rect x="24" y="175" width="12.01" height="5" rx="2.5" fill="#6464c8"/>
 <text x="24" y="200" font-size="12" fill="var(--text)" font-weight="400">Ruby</text>
 <text x="278" y="200" font-size="12" fill="var(--muted)" font-weight="400">0.0%</text>
 <rect x="24" y="207" width="308" height="5" rx="2.5" fill="var(--track)"/>
