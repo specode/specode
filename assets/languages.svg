@@ -11,11 +11,11 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 <text x="24" y="72" font-size="12" fill="var(--text)" font-weight="400">TypeScript</text>
 <text x="278" y="72" font-size="12" fill="var(--muted)" font-weight="400">63.1%</text>
 <rect x="24" y="79" width="308" height="5" rx="2.5" fill="var(--track)"/>
-<rect x="24" y="79" width="194.39" height="5" rx="2.5" fill="#3178c6"/>
+<rect x="24" y="79" width="194.33" height="5" rx="2.5" fill="#3178c6"/>
 <text x="24" y="104" font-size="12" fill="var(--text)" font-weight="400">JavaScript</text>
 <text x="278" y="104" font-size="12" fill="var(--muted)" font-weight="400">27.3%</text>
 <rect x="24" y="111" width="308" height="5" rx="2.5" fill="var(--track)"/>
-<rect x="24" y="111" width="84.17" height="5" rx="2.5" fill="#c7aa19"/>
+<rect x="24" y="111" width="84.24" height="5" rx="2.5" fill="#c7aa19"/>
 <text x="24" y="136" font-size="12" fill="var(--text)" font-weight="400">Shell</text>
 <text x="278" y="136" font-size="12" fill="var(--muted)" font-weight="400">6.4%</text>
 <rect x="24" y="143" width="308" height="5" rx="2.5" fill="var(--track)"/>
