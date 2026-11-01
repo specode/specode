@@ -2,9 +2,9 @@
 
 [![Follow Specode](https://img.shields.io/github/followers/specode?label=Follow&style=social)](https://github.com/specode?tab=followers)
 
-A hands-on builder and tinkerer who loves turning ideas into working products with AI — building **developer tools for the AI era** and **personal apps** across iOS, macOS, and the web.
+I like tinkering and building things hands-on — mostly **AI-native developer tools** and **apps I want to use myself** across iOS, macOS, and the web.
 
-- **AI-era developer tools** — Pi extensions, agent integrations, and workflow automation
+- **AI-native dev tools** — Pi extensions, agent integrations, and workflow automation
 - **Apps & web projects** — iOS/macOS apps and websites built around personal interests
 - **My setup** — personal harness configuration, Neovim, and dotfiles
 
@@ -21,7 +21,7 @@ A hands-on builder and tinkerer who loves turning ideas into working products wi
 | [**Lumea**](https://getlumea.app) | iPhone focus timer. While you focus, a companion adventures through a watercolor world. |
 | [**AnyPane**](https://anypane.app) | SSH and VNC workspaces for iPhone, iPad, and Mac, with up to four panes per task. Available now. |
 
-### AI-Era Developer Tools
+### AI-Native Developer Tools
 
 | Project | What it does |
 | :--- | :--- |
