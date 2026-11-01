@@ -23,8 +23,7 @@ python3 scripts/update_stats.py
 
 本地运行使用现有 gh 登录态。Actions 使用自动提供的 `GITHUB_TOKEN`，无需添加个人令牌。
 请求失败时任务报错，保留上次提交的卡片。仅扫描公开、非 fork 仓库，不读取私有仓库。
-语言百分比按 GitHub Languages API 的代码字节数计算，排除本主页仓库；仅展示前五种，
-分母仍包含全部语言，因此显示比例不一定合计为 100%。Stars 和 forks 汇总自公开原创仓库。
+Stars 和 forks 汇总自公开原创仓库。
 
 ## 自动更新注意事项
 
