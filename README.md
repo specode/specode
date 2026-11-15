@@ -25,9 +25,10 @@ I like tinkering and building things hands-on — mostly **AI-native developer t
 
 | Project | What it does |
 | :--- | :--- |
-| [**pi-subscription-image**](https://github.com/specode/pi-subscription-image) | Generate and edit images in Pi using existing Codex and Grok subscriptions. |
-| [**pi-subscription-usage**](https://github.com/specode/pi-subscription-usage) | Check subscription quota for Codex, OpenCode Go, Grok, and Kimi. |
+| [**pi-subscription-usage**](https://github.com/specode/pi-subscription-usage) | Check subscription quota for Codex, OpenCode Go, Grok, and Kimi, plus Antigravity and Claude via provider extensions. |
 | [**pi-last-model-effort**](https://github.com/specode/pi-last-model-effort) | Remember the last thinking effort used by each model in Pi. |
+| [**pi-subscription-image**](https://github.com/specode/pi-subscription-image) | Generate and edit images in Pi using existing Codex and Grok subscriptions. |
+| [**pi-antigravity**](https://github.com/specode/pi-antigravity) | Use Gemini, Claude, and GPT-OSS models in Pi with your Google Antigravity subscription. |
 | [**pi-kimi-webbridge-bootstrap**](https://github.com/specode/pi-kimi-webbridge-bootstrap) | Install and update the official Kimi WebBridge runtime and skill for Pi. |
 | [**pi-kimi-cu**](https://github.com/specode/pi-kimi-cu) | Set up Kimi Computer Use and MCP for Pi. |
 
